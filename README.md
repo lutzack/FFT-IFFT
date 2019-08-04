@@ -26,5 +26,5 @@ https://algorithm.joho.info/programming/python/opencv-fft-spectrum/
 http://whitecat-student.hatenablog.com/entry/2016/11/09/225631  
 (コピーした部分：サンプルプログラム)  
 
-実行した結果
+実行した結果  
 https://github.com/lutzack/FFT-IFFT/blob/master/FFT-IFFT.gif
